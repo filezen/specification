@@ -1,5 +1,5 @@
 
-# Codex Specification
+# Spécification Codex
 
 La spécification Codex décrit une architecture d'organisation des fichiers numériques, conçue pour apporter une solution flexible et évolutive au classement de données personnelles et professionnelles. Inspirée des méthodes **PARA** (Projects, Areas, Resources, Archives) et **Johnny Decimal**, cette approche vise à offrir une structure modulaire, claire et efficace, tout en permettant une personnalisation adaptée aux besoins spécifiques de chaque utilisateur.
 
