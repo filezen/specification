@@ -224,8 +224,6 @@ Les fichiers ou projets qui ne sont plus actifs sont déplacés dans le dossier 
     
 7.  **Mettre à jour régulièrement** : à mesure que de nouveaux projets ou domaines d’activité se développent, adaptez la structure en créant de nouvelles sous-catégories numérotées. Par exemple, si vous ajoutez un nouveau domaine, assurez-vous de suivre la logique de numérotation pour conserver la cohérence.
 
-## Licence
+---
 
-Cette spécification est publiée sous la licence **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. Vous êtes libre de partager et d'adapter ce travail, à condition de créditer l'auteur et de distribuer vos contributions sous les mêmes conditions de licence.
-
-Pour plus d'informations, voir [la licence officielle](https://creativecommons.org/licenses/by-sa/4.0/).
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">La <a property="dct:title" rel="cc:attributionURL" href="https://github.com/fmatsos/codex-specification">Spécification Codex</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://franck.matsos.dev/">Franck Matsos</a> est publiée sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
