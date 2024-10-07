@@ -1,7 +1,7 @@
 
-# Spécification Codex
+# Spécification Filezen
 
-La spécification Codex décrit une architecture d'organisation des fichiers numériques, conçue pour apporter une solution flexible et évolutive au classement de données personnelles et professionnelles. Inspirée des méthodes **PARA** (Projects, Areas, Resources, Archives) et **Johnny Decimal**, cette approche vise à offrir une structure modulaire, claire et efficace, tout en permettant une personnalisation adaptée aux besoins spécifiques de chaque utilisateur.
+La spécification Filezen décrit une architecture d'organisation des fichiers numériques, conçue pour apporter une solution flexible et évolutive au classement de données personnelles et professionnelles. Inspirée des méthodes **PARA** (Projects, Areas, Resources, Archives) et **Johnny Decimal**, cette approche vise à offrir une structure modulaire, claire et efficace, tout en permettant une personnalisation adaptée aux besoins spécifiques de chaque utilisateur.
 
 L'architecture repose sur des conventions strictes en matière de nommage et d'organisation, avec une numérotation hiérarchique facilitant la navigation et la recherche rapide des informations.
 
@@ -54,9 +54,9 @@ Le système **Johnny Decimal** propose une organisation basée sur une numérota
 
 Pour plus d'informations sur le système Johnny Decimal, consultez le [site officiel](https://johnnydecimal.com).
 
-### Comparaisons avec Codex
+### Comparaisons avec Filezen
 
-Codex combine des aspects clés des méthodes **PARA** et **Johnny Decimal**, tout en ajoutant plus de flexibilité et une plus grande granularité pour s’adapter aux besoins évolutifs de l'utilisateur.
+Filezen combine des aspects clés des méthodes **PARA** et **Johnny Decimal**, tout en ajoutant plus de flexibilité et une plus grande granularité pour s’adapter aux besoins évolutifs de l'utilisateur.
 
 #### Similitudes
 
@@ -226,4 +226,4 @@ Les fichiers ou projets qui ne sont plus actifs sont déplacés dans le dossier 
 
 ---
 
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">La <a property="dct:title" rel="cc:attributionURL" href="https://github.com/fmatsos/codex-specification">Spécification Codex</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://franck.matsos.dev/">Franck Matsos</a> est publiée sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">La <a property="dct:title" rel="cc:attributionURL" href="https://github.com/filezen/specification">Spécification Filezen</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://franck.matsos.dev/">Franck Matsos</a> est publiée sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
